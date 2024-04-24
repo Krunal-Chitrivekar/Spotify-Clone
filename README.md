@@ -1,0 +1,3 @@
+# Spotify Clone
+
+Crafted a faithful replica of the Spotify frontend interface using HTML and CSS, meticulously emulating its design elements and layout. While the current version is not responsive, it offers an immersive experience akin to the original platform. This project serves as a testament to my proficiency in frontend development and attention to detail. Contributions and feedback are welcome as I continue to enhance its functionality and responsiveness.
